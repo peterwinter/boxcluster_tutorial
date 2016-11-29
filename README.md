@@ -1,6 +1,6 @@
 # boxcluster_tutorial
 Juypter Notebooks and Datasets demonstrating how and why to use boxcluster.
- - [Modularity Maximization](https://github.com/peterwinter/boxcluster_tutorial/blob/master/matrixsort.ipynb)
+ - [Modularity Maximization](https://github.com/peterwinter/boxcluster_tutorial/blob/master/modularity_max.ipynb)
  - [Matrix Sorting](https://github.com/peterwinter/boxcluster_tutorial/blob/master/matrixsort.ipynb)
  - [Box Cutting](https://github.com/peterwinter/boxcluster_tutorial/blob/master/boxcut.ipynb)
  - extracting hierarchical structure (in progress)
