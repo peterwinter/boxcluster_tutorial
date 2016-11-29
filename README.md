@@ -1,9 +1,10 @@
 # boxcluster_tutorial
 Juypter Notebooks and Datasets demonstrating how and why to use boxcluster.
-
- - [Matrix Sorting](https://github.com/peterwinter/boxcluster_tutorial/blob/master/matrix_sorting.ipynb)
- - [Extracting clusters from a sorted matrix](https://github.com/peterwinter/boxcluster_tutorial/blob/master/box_clustering.ipynb)
+ - [Modularity Maximization](https://github.com/peterwinter/boxcluster_tutorial/blob/master/matrixsort.ipynb)
+ - [Matrix Sorting](https://github.com/peterwinter/boxcluster_tutorial/blob/master/matrixsort.ipynb)
+ - [Box Cutting](https://github.com/peterwinter/boxcluster_tutorial/blob/master/boxcut.ipynb)
  - extracting hierarchical structure (in progress)
+
 
 ## Why not include this in boxcluster?
 To keep the [boxcluster repo](https://github.com/peterwinter/boxcluster), lean, mean and without unnecessary datasets and extra dependencies like plotting libraries. I've opted to keep all extended documentation
